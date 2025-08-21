@@ -31,30 +31,10 @@
       }
     ],
     "personales": [
-      {
-        "id": "p1",
-        "nombre": "Carlos Martínez - Voluntario",
-        "telefono": "525587456321",
-        "tipo": "personal"
-      },
-      {
-        "id": "p2",
-        "nombre": "Ana López - Rescatista",
-        "telefono": "525591234567",
-        "tipo": "personal"
-      },
-      {
-        "id": "p3",
-        "nombre": "Miguel Sánchez - Especialista",
-        "telefono": "525589012345",
-        "tipo": "personal"
-      },
-      {
-        "id": "p4",
-        "nombre": "Laura Rodríguez - Veterinaria",
-        "telefono": "525578901234",
-        "tipo": "personal"
-      }
+      { "id": "p1", "nombre": "Carlos Martínez - Voluntario", "telefono": "525587456321", "tipo": "personal" },
+      { "id": "p2", "nombre": "Ana López - Rescatista", "telefono": "525591234567", "tipo": "personal" },
+      { "id": "p3", "nombre": "Miguel Sánchez - Especialista", "telefono": "525589012345", "tipo": "personal" },
+      { "id": "p4", "nombre": "Laura Rodríguez - Veterinaria", "telefono": "525578901234", "tipo": "personal" }
     ]
   },
   "mascotas": [
@@ -67,48 +47,9 @@
       "tamaño": "Grande",
       "vacunado": true,
       "descripcion": "Es muy juguetón y le encanta jugar con niños y agua.",
-      "imagen": "https://placehold.co/150x150/A8D5E2/333333?text=Perro",
+      "imagen": "https://i.ibb.co/5Mg7X6c/perro.png",
       "especie": "perro",
-      "contactoId": "e1"
-    },
-    {
-      "id": "2",
-      "nombre": "Luna",
-      "edad": "1 año",
-      "raza": "Pastor Alemán",
-      "color": "Negro y fuego",
-      "tamaño": "Grande",
-      "vacunado": true,
-      "descripcion": "Muy inteligente y protectora, ideal para entrenar.",
-      "imagen": "https://placehold.co/150x150/A8D5E2/333333?text=Perro",
-      "especie": "perro",
-      "contactoId": "p1"
-    },
-    {
-      "id": "3",
-      "nombre": "Max",
-      "edad": "3 años",
-      "raza": "Labrador",
-      "color": "Chocolate",
-      "tamaño": "Grande",
-      "vacunado": false,
-      "descripcion": "Cariñoso y sociable, le encanta correr y jugar con pelotas.",
-      "imagen": "https://placehold.co/150x150/A8D5E2/333333?text=Perro",
-      "especie": "perro",
-      "contactoId": "e1"
-    },
-    {
-      "id": "4",
-      "nombre": "Nina",
-      "edad": "4 años",
-      "raza": "Poodle",
-      "color": "Blanco",
-      "tamaño": "Mediano",
-      "vacunado": true,
-      "descripcion": "Tranquila y obediente, ideal para casas pequeñas.",
-      "imagen": "https://placehold.co/150x150/A8D5E2/333333?text=Perro",
-      "especie": "perro",
-      "contactoId": "p1"
+      "contacto": "e1"
     },
     {
       "id": "5",
@@ -119,35 +60,9 @@
       "tamaño": "Pequeño",
       "vacunado": true,
       "descripcion": "Juguetón y vocal, le encanta recibir atención y mimos.",
-      "imagen": "https://placehold.co/150x150/F9B5AC/333333?text=Gato",
+      "imagen": "https://i.ibb.co/mN4KgzJ/gato.png",
       "especie": "gato",
-      "contactoId": "e2"
-    },
-    {
-      "id": "6",
-      "nombre": "Salem",
-      "edad": "3 años",
-      "raza": "Negro común",
-      "color": "Negro",
-      "tamaño": "Mediano",
-      "vacunado": true,
-      "descripcion": "Tranquilo y observador, prefiere lugares elevados y cálidos.",
-      "imagen": "https://placehold.co/150x150/F9B5AC/333333?text=Gato",
-      "especie": "gato",
-      "contactoId": "p2"
-    },
-    {
-      "id": "7",
-      "nombre": "Pelusa",
-      "edad": "1 año",
-      "raza": "Persa",
-      "color": "Blanco",
-      "tamaño": "Mediano",
-      "vacunado": false,
-      "descripcion": "Muy cariñoso y perezoso, adora que lo cepillen.",
-      "imagen": "https://placehold.co/150x150/F9B5AC/333333?text=Gato",
-      "especie": "gato",
-      "contactoId": "e2"
+      "contacto": "e2"
     },
     {
       "id": "8",
@@ -158,22 +73,9 @@
       "tamaño": "Pequeño",
       "vacunado": true,
       "descripcion": "Muy activo y curioso, le encanta explorar.",
-      "imagen": "https://placehold.co/150x150/B5EAD7/333333?text=Conejo",
+      "imagen": "https://i.ibb.co/VgWB6kB/conejo.png",
       "especie": "conejo",
-      "contactoId": "e3"
-    },
-    {
-      "id": "9",
-      "nombre": "Copito",
-      "edad": "2 años",
-      "raza": "Cabeza de león",
-      "color": "Blanco",
-      "tamaño": "Pequeño",
-      "vacunado": true,
-      "descripcion": "Tranquilo y amigable, perfecto para niños.",
-      "imagen": "https://placehold.co/150x150/B5EAD7/333333?text=Conejo",
-      "especie": "conejo",
-      "contactoId": "p3"
+      "contacto": "e3"
     },
     {
       "id": "10",
@@ -184,35 +86,9 @@
       "tamaño": "Muy pequeño",
       "vacunado": false,
       "descripcion": "Canta hermoso por las mañanas, alegra cualquier hogar.",
-      "imagen": "https://placehold.co/150x150/FFDAB9/333333?text=Ave",
+      "imagen": "https://i.ibb.co/ZM6BTTM/ave.png",
       "especie": "ave",
-      "contactoId": "e4"
-    },
-    {
-      "id": "11",
-      "nombre": "Pepe",
-      "edad": "1 año",
-      "raza": "Periquito",
-      "color": "Verde y azul",
-      "tamaño": "Pequeño",
-      "vacunado": false,
-      "descripcion": "Muy sociable, puede aprender a hablar con entrenamiento.",
-      "imagen": "https://placehold.co/150x150/FFDAB9/333333?text=Ave",
-      "especie": "ave",
-      "contactoId": "p4"
-    },
-    {
-      "id": "12",
-      "nombre": "Lola",
-      "edad": "5 años",
-      "raza": "Loro gris",
-      "color": "Gris con cola roja",
-      "tamaño": "Mediano",
-      "vacunado": true,
-      "descripcion": "Inteligente y habladora, ya sabe varias palabras.",
-      "imagen": "https://placehold.co/150x150/FFDAB9/333333?text=Ave",
-      "especie": "ave",
-      "contactoId": "e4"
+      "contacto": "e4"
     }
   ]
 }
