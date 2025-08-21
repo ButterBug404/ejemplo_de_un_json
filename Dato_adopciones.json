@@ -1,33 +1,33 @@
 {
   "contactos": {
     "empresas": [
-      {
-        "id": "e1",
-        "nombre": "Asociación Amigos Caninos",
-        "telefono": "523326551124",
-        "email": "contacto@amigoscaninos.org",
-        "tipo": "asociación"
+      { 
+        "id": "e1", 
+        "nombre": "Asociación Amigos Caninos", 
+        "telefono": "523411279817", 
+        "email": "hipsterpapiro@hotmail.com", 
+        "tipo": "asociación" 
       },
-      {
-        "id": "e2",
-        "nombre": "Fundación Felina",
-        "telefono": "525523456789",
-        "email": "adopciones@fundacionfelina.mx",
-        "tipo": "asociación"
+      { 
+        "id": "e2", 
+        "nombre": "Fundación Felina", 
+        "telefono": "525523456789", 
+        "email": "adopciones@fundacionfelina.mx", 
+        "tipo": "asociación" 
       },
-      {
-        "id": "e3",
-        "nombre": "Refugio Pequeñas Patitas",
-        "telefono": "525534567890",
-        "email": "info@pequeñaspatitas.com",
-        "tipo": "asociación"
+      { 
+        "id": "e3", 
+        "nombre": "Refugio Pequeñas Patitas", 
+        "telefono": "525534567890", 
+        "email": "info@pequeñaspatitas.com", 
+        "tipo": "asociación" 
       },
-      {
-        "id": "e4",
-        "nombre": "Santuario de Aves",
-        "telefono": "525545678901",
-        "email": "aves@santuariomx.org",
-        "tipo": "asociación"
+      { 
+        "id": "e4", 
+        "nombre": "Santuario de Aves", 
+        "telefono": "525545678901", 
+        "email": "aves@santuariomx.org", 
+        "tipo": "asociación" 
       }
     ],
     "personales": [
@@ -38,57 +38,161 @@
     ]
   },
   "mascotas": [
-    {
-      "id": "1",
-      "nombre": "Firulais",
-      "edad": "2 años",
-      "raza": "Golden Retriever",
-      "color": "Dorado",
-      "tamaño": "Grande",
-      "vacunado": true,
-      "descripcion": "Es muy juguetón y le encanta jugar con niños y agua.",
-      "imagen": "https://i.ibb.co/5Mg7X6c/perro.png",
+    { 
+      "id": "1", 
+      "nombre": "Firulais", 
+      "edad": "2 años", 
+      "raza": "Golden Retriever", 
+      "color": "Dorado", 
+      "tamaño": "Grande", 
+      "vacunado": true, 
+      "descripcion": "Es muy juguetón y le encanta jugar con niños y agua.", 
+      "imagen": "https://i.pinimg.com/1200x/cd/55/e2/cd55e261230ec50eee40afeda8160140.jpg", 
       "especie": "perro",
-      "contacto": "e1"
+      "contactoId": "e1"
     },
-    {
-      "id": "5",
-      "nombre": "Michi",
-      "edad": "2 años",
-      "raza": "Siamés",
-      "color": "Crema y marrón",
-      "tamaño": "Pequeño",
-      "vacunado": true,
-      "descripcion": "Juguetón y vocal, le encanta recibir atención y mimos.",
-      "imagen": "https://i.ibb.co/mN4KgzJ/gato.png",
+    { 
+      "id": "2", 
+      "nombre": "Luna", 
+      "edad": "1 año", 
+      "raza": "Pastor Alemán", 
+      "color": "Negro y fuego", 
+      "tamaño": "Grande", 
+      "vacunado": true, 
+      "descripcion": "Muy inteligente y protectora, ideal para entrenar.", 
+      "imagen": "https://i.pinimg.com/736x/b9/a9/97/b9a99771ba5122b34b447cd5d3e9ae44.jpg", 
+      "especie": "perro",
+      "contactoId": "p1"
+    },
+    { 
+      "id": "3", 
+      "nombre": "Max", 
+      "edad": "3 años", 
+      "raza": "Labrador", 
+      "color": "Chocolate", 
+      "tamaño": "Grande", 
+      "vacunado": false, 
+      "descripcion": "Cariñoso y sociable, le encanta correr y jugar con pelotas.", 
+      "imagen": "https://i.pinimg.com/736x/df/5c/08/df5c08e530f40c1573547b6f09c64b15.jpg", 
+      "especie": "perro",
+      "contactoId": "e1"
+    },
+    { 
+      "id": "4", 
+      "nombre": "Nina", 
+      "edad": "4 años", 
+      "raza": "Poodle", 
+      "color": "Blanco", 
+      "tamaño": "Mediano", 
+      "vacunado": true, 
+      "descripcion": "Tranquila y obediente, ideal para casas pequeñas.", 
+      "imagen": "https://i.pinimg.com/736x/0b/f7/cc/0bf7ccba78cf2bc7564de56887df7f36.jpg", 
+      "especie": "perro",
+      "contactoId": "p1"
+    },
+    { 
+      "id": "5", 
+      "nombre": "Michi", 
+      "edad": "2 años", 
+      "raza": "Siamés", 
+      "color": "Crema y marrón", 
+      "tamaño": "Pequeño", 
+      "vacunado": true, 
+      "descripcion": "Juguetón y vocal, le encanta recibir atención y mimos.", 
+      "imagen": "https://i.pinimg.com/736x/ac/b3/66/acb3665cc869154d3a53eb06157d6281.jpg", 
       "especie": "gato",
-      "contacto": "e2"
+      "contactoId": "e2"
     },
-    {
-      "id": "8",
-      "nombre": "Tambor",
-      "edad": "1 año",
-      "raza": "Mini Lop",
-      "color": "Gris y blanco",
-      "tamaño": "Pequeño",
-      "vacunado": true,
-      "descripcion": "Muy activo y curioso, le encanta explorar.",
-      "imagen": "https://i.ibb.co/VgWB6kB/conejo.png",
+    { 
+      "id": "6", 
+      "nombre": "Salem", 
+      "edad": "3 años", 
+      "raza": "Negro común", 
+      "color": "Negro", 
+      "tamaño": "Mediano", 
+      "vacunado": true, 
+      "descripcion": "Tranquilo y observador, prefiere lugares elevados y cálidos.", 
+      "imagen": "https://i.pinimg.com/736x/da/9f/4a/da9f4a89b3eeefedc675aa25536235d8.jpg", 
+      "especie": "gato",
+      "contactoId": "p2"
+    },
+    { 
+      "id": "7", 
+      "nombre": "Pelusa", 
+      "edad": "1 año", 
+      "raza": "Persa", 
+      "color": "Blanco", 
+      "tamaño": "Mediano", 
+      "vacunado": false, 
+      "descripcion": "Muy cariñoso y perezoso, adora que lo cepillen.", 
+      "imagen": "https://i.pinimg.com/736x/7b/aa/64/7baa641886377c55177f6909980d1ba9.jpg", 
+      "especie": "gato",
+      "contactoId": "e2"
+    },
+    { 
+      "id": "8", 
+      "nombre": "Tambor", 
+      "edad": "1 año", 
+      "raza": "Mini Lop", 
+      "color": "Gris y blanco", 
+      "tamaño": "Pequeño", 
+      "vacunado": true, 
+      "descripcion": "Muy activo y curioso, le encanta explorar.", 
+      "imagen": "https://i.pinimg.com/736x/70/03/c8/7003c817739ee14b028cc7663db0224c.jpg", 
       "especie": "conejo",
-      "contacto": "e3"
+      "contactoId": "e3"
     },
-    {
-      "id": "10",
-      "nombre": "Piolín",
-      "edad": "3 años",
-      "raza": "Canario",
-      "color": "Amarillo",
-      "tamaño": "Muy pequeño",
-      "vacunado": false,
-      "descripcion": "Canta hermoso por las mañanas, alegra cualquier hogar.",
-      "imagen": "https://i.ibb.co/ZM6BTTM/ave.png",
+    { 
+      "id": "9", 
+      "nombre": "Copito", 
+      "edad": "2 años", 
+      "raza": "Cabeza de león", 
+      "color": "Blanco", 
+      "tamaño": "Pequeño", 
+      "vacunado": true, 
+      "descripcion": "Tranquilo y amigable, perfecto para niños.", 
+      "imagen": "https://i.pinimg.com/1200x/33/6a/8e/336a8e89744811c375f40a392366dc8e.jpg", 
+      "especie": "conejo",
+      "contactoId": "p3"
+    },
+    { 
+      "id": "10", 
+      "nombre": "Piolín", 
+      "edad": "3 años", 
+      "raza": "Canario", 
+      "color": "Amarillo", 
+      "tamaño": "Muy pequeño", 
+      "vacunado": false, 
+      "descripcion": "Canta hermoso por las mañanas, alegra cualquier hogar.", 
+      "imagen": "https://i.pinimg.com/1200x/fb/6a/9c/fb6a9c26123206616bd2c7cbbf0e788d.jpg", 
       "especie": "ave",
-      "contacto": "e4"
+      "contactoId": "e4"
+    },
+    { 
+      "id": "11", 
+      "nombre": "Pepe", 
+      "edad": "1 año", 
+      "raza": "Periquito", 
+      "color": "Verde y azul", 
+      "tamaño": "Pequeño", 
+      "vacunado": false, 
+      "descripcion": "Muy sociable, puede aprender a hablar con entrenamiento.", 
+      "imagen": "https://i.pinimg.com/736x/49/85/1e/49851e7641e207f86c63853a4e527b28.jpg", 
+      "especie": "ave",
+      "contactoId": "p4"
+    },
+    { 
+      "id": "12", 
+      "nombre": "Lola", 
+      "edad": "5 años", 
+      "raza": "Ninfa", 
+      "color": "Amarillo con gris", 
+      "tamaño": "Mediano", 
+      "vacunado": true, 
+      "descripcion": "Inteligente y habladora, ya sabe varias palabras.", 
+      "imagen": "https://i.pinimg.com/736x/f6/ab/ad/f6abad85eb13004f5b07151a402bbe8d.jpg", 
+      "especie": "ave",
+      "contactoId": "e4"
     }
   ]
 }
