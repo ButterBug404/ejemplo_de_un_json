@@ -1,0 +1,218 @@
+{
+  "contactos": {
+    "empresas": [
+      {
+        "id": "e1",
+        "nombre": "Asociación Amigos Caninos",
+        "telefono": "523326551124",
+        "email": "contacto@amigoscaninos.org",
+        "tipo": "asociación"
+      },
+      {
+        "id": "e2",
+        "nombre": "Fundación Felina",
+        "telefono": "525523456789",
+        "email": "adopciones@fundacionfelina.mx",
+        "tipo": "asociación"
+      },
+      {
+        "id": "e3",
+        "nombre": "Refugio Pequeñas Patitas",
+        "telefono": "525534567890",
+        "email": "info@pequeñaspatitas.com",
+        "tipo": "asociación"
+      },
+      {
+        "id": "e4",
+        "nombre": "Santuario de Aves",
+        "telefono": "525545678901",
+        "email": "aves@santuariomx.org",
+        "tipo": "asociación"
+      }
+    ],
+    "personales": [
+      {
+        "id": "p1",
+        "nombre": "Carlos Martínez - Voluntario",
+        "telefono": "525587456321",
+        "tipo": "personal"
+      },
+      {
+        "id": "p2",
+        "nombre": "Ana López - Rescatista",
+        "telefono": "525591234567",
+        "tipo": "personal"
+      },
+      {
+        "id": "p3",
+        "nombre": "Miguel Sánchez - Especialista",
+        "telefono": "525589012345",
+        "tipo": "personal"
+      },
+      {
+        "id": "p4",
+        "nombre": "Laura Rodríguez - Veterinaria",
+        "telefono": "525578901234",
+        "tipo": "personal"
+      }
+    ]
+  },
+  "mascotas": [
+    {
+      "id": "1",
+      "nombre": "Firulais",
+      "edad": "2 años",
+      "raza": "Golden Retriever",
+      "color": "Dorado",
+      "tamaño": "Grande",
+      "vacunado": true,
+      "descripcion": "Es muy juguetón y le encanta jugar con niños y agua.",
+      "imagen": "https://placehold.co/150x150/A8D5E2/333333?text=Perro",
+      "especie": "perro",
+      "contactoId": "e1"
+    },
+    {
+      "id": "2",
+      "nombre": "Luna",
+      "edad": "1 año",
+      "raza": "Pastor Alemán",
+      "color": "Negro y fuego",
+      "tamaño": "Grande",
+      "vacunado": true,
+      "descripcion": "Muy inteligente y protectora, ideal para entrenar.",
+      "imagen": "https://placehold.co/150x150/A8D5E2/333333?text=Perro",
+      "especie": "perro",
+      "contactoId": "p1"
+    },
+    {
+      "id": "3",
+      "nombre": "Max",
+      "edad": "3 años",
+      "raza": "Labrador",
+      "color": "Chocolate",
+      "tamaño": "Grande",
+      "vacunado": false,
+      "descripcion": "Cariñoso y sociable, le encanta correr y jugar con pelotas.",
+      "imagen": "https://placehold.co/150x150/A8D5E2/333333?text=Perro",
+      "especie": "perro",
+      "contactoId": "e1"
+    },
+    {
+      "id": "4",
+      "nombre": "Nina",
+      "edad": "4 años",
+      "raza": "Poodle",
+      "color": "Blanco",
+      "tamaño": "Mediano",
+      "vacunado": true,
+      "descripcion": "Tranquila y obediente, ideal para casas pequeñas.",
+      "imagen": "https://placehold.co/150x150/A8D5E2/333333?text=Perro",
+      "especie": "perro",
+      "contactoId": "p1"
+    },
+    {
+      "id": "5",
+      "nombre": "Michi",
+      "edad": "2 años",
+      "raza": "Siamés",
+      "color": "Crema y marrón",
+      "tamaño": "Pequeño",
+      "vacunado": true,
+      "descripcion": "Juguetón y vocal, le encanta recibir atención y mimos.",
+      "imagen": "https://placehold.co/150x150/F9B5AC/333333?text=Gato",
+      "especie": "gato",
+      "contactoId": "e2"
+    },
+    {
+      "id": "6",
+      "nombre": "Salem",
+      "edad": "3 años",
+      "raza": "Negro común",
+      "color": "Negro",
+      "tamaño": "Mediano",
+      "vacunado": true,
+      "descripcion": "Tranquilo y observador, prefiere lugares elevados y cálidos.",
+      "imagen": "https://placehold.co/150x150/F9B5AC/333333?text=Gato",
+      "especie": "gato",
+      "contactoId": "p2"
+    },
+    {
+      "id": "7",
+      "nombre": "Pelusa",
+      "edad": "1 año",
+      "raza": "Persa",
+      "color": "Blanco",
+      "tamaño": "Mediano",
+      "vacunado": false,
+      "descripcion": "Muy cariñoso y perezoso, adora que lo cepillen.",
+      "imagen": "https://placehold.co/150x150/F9B5AC/333333?text=Gato",
+      "especie": "gato",
+      "contactoId": "e2"
+    },
+    {
+      "id": "8",
+      "nombre": "Tambor",
+      "edad": "1 año",
+      "raza": "Mini Lop",
+      "color": "Gris y blanco",
+      "tamaño": "Pequeño",
+      "vacunado": true,
+      "descripcion": "Muy activo y curioso, le encanta explorar.",
+      "imagen": "https://placehold.co/150x150/B5EAD7/333333?text=Conejo",
+      "especie": "conejo",
+      "contactoId": "e3"
+    },
+    {
+      "id": "9",
+      "nombre": "Copito",
+      "edad": "2 años",
+      "raza": "Cabeza de león",
+      "color": "Blanco",
+      "tamaño": "Pequeño",
+      "vacunado": true,
+      "descripcion": "Tranquilo y amigable, perfecto para niños.",
+      "imagen": "https://placehold.co/150x150/B5EAD7/333333?text=Conejo",
+      "especie": "conejo",
+      "contactoId": "p3"
+    },
+    {
+      "id": "10",
+      "nombre": "Piolín",
+      "edad": "3 años",
+      "raza": "Canario",
+      "color": "Amarillo",
+      "tamaño": "Muy pequeño",
+      "vacunado": false,
+      "descripcion": "Canta hermoso por las mañanas, alegra cualquier hogar.",
+      "imagen": "https://placehold.co/150x150/FFDAB9/333333?text=Ave",
+      "especie": "ave",
+      "contactoId": "e4"
+    },
+    {
+      "id": "11",
+      "nombre": "Pepe",
+      "edad": "1 año",
+      "raza": "Periquito",
+      "color": "Verde y azul",
+      "tamaño": "Pequeño",
+      "vacunado": false,
+      "descripcion": "Muy sociable, puede aprender a hablar con entrenamiento.",
+      "imagen": "https://placehold.co/150x150/FFDAB9/333333?text=Ave",
+      "especie": "ave",
+      "contactoId": "p4"
+    },
+    {
+      "id": "12",
+      "nombre": "Lola",
+      "edad": "5 años",
+      "raza": "Loro gris",
+      "color": "Gris con cola roja",
+      "tamaño": "Mediano",
+      "vacunado": true,
+      "descripcion": "Inteligente y habladora, ya sabe varias palabras.",
+      "imagen": "https://placehold.co/150x150/FFDAB9/333333?text=Ave",
+      "especie": "ave",
+      "contactoId": "e4"
+    }
+  ]
+}
