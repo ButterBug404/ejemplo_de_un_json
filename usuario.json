@@ -65,6 +65,7 @@
     "correo": "juan.perez@example.com",
     "contraseña": "Password456",
     "telefono": "5551234567",
-    "profileImage": null
+    "profileImage": null,
+    "mascotas": null
   }
 ]
