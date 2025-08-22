@@ -7,7 +7,7 @@
           "id": "Anuncio1",
           "titulo": "Cuidado Básico de Mascotas",
           "descripcion": "Guía completa para el cuidado diario",
-          "contenido": "Contenido del primer anuncio sobre cuidado de mascotas y servicios veterinarios."
+          "contenido": "Contenido del primer anuncio sobre cuidado de mascotas y servicios veterinarios con JSON."
         },
         {
           "id": "Anuncio2",
