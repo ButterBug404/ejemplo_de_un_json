@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lizette Sarahi",
+    "apellidoPaterno": "Sereno",
+    "apellidoMaterno": "Cortés",
+    "correo": "hipsterpapiro@hotmail.com",
+    "contraseña": "Password123",
+    "telefono": "3326551124",
+    "profileImage": "https://i.pinimg.com/736x/8a/62/b9/8a62b9238c2c6b61a2d6b785a49ea70e.jpg",
+    "mascotas": [
+      {
+        "id": "1",
+        "nombre": "Firulais",
+        "edad": "2 años",
+        "raza": "Golden Retriever",
+        "estado": "Presente",
+        "imagen": "https://imgs.search.brave.com/ZafHjAFOxVGuNnA9MVvKkjxki8VGsscankVblDP-lbg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzExLzM1LzY1LzMz/LzM2MF9GXzExMzU2/NTMzODJfQ0pEZmc4/R3hCMEljalhIOFVi/QmRUYk1DRE8yb213/YnYuanBn",
+        "tipoRegistro": "perdida",
+        "especie": "perro",
+        "color": "Dorado",
+        "tamaño": "Grande",
+        "descripcion": "Perro muy amigable y juguetón",
+        "contacto": "Contactar através del perfil",
+        "vacunado": true,
+        "fechaRegistro": "2024-07-27T00:00:00.000Z",
+        "ubicacion": {
+          "latitude": 19.4326,
+          "longitude": -99.1332,
+          "estado": "Estado de México",
+          "municipio": "Ciudad de México"
+        }
+      },
+      {
+        "id": "2",
+        "nombre": "Luna",
+        "edad": "1 año",
+        "raza": "Pastor Alemán",
+        "estado": "Desaparecido",
+        "imagen": "https://imgs.search.brave.com/NCAUWm_n09bDpCb1rqmrjsoyzNHj41b6HuhxpA9K3jY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb250/ZW50Lm5hdGlvbmFs/Z2VvZ3JhcGhpYy5j/b20uZXMvbWVkaW8v/MjAyNC8wNy8wNS9v/am9zLXBlcnJvcy00/XzVlY2YxYjFhXzI0/MDcwNTA4NDE0OF84/MDB4ODAwLmpwZw",
+        "tipoRegistro": "perdida",
+        "especie": "perro",
+        "color": "Negro",
+        "tamaño": "Grande",
+        "descripcion": "Mascota muy cariñosa, responde a su nombre. Llevaba collar azul cuando desapareció.",
+        "contacto": "Contactar através del perfil",
+        "vacunado": true,
+        "fechaRegistro": "2024-07-27T00:00:00.000Z",
+        "ultimaVezVisto": "Hace 2 días",
+        "ubicacionPerdida": "Parque Central, Guadalajara",
+        "recompensa": "$500 MXN",
+        "ubicacion": {
+          "latitude": 20.6597,
+          "longitude": -103.3496,
+          "direccion": "Parque Central, Guadalajara"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Juan",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Gomez",
+    "correo": "juan.perez@example.com",
+    "contraseña": "Password456",
+    "telefono": "5551234567",
+    "profileImage": null
+  }
+]
