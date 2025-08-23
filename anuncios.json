@@ -20,6 +20,12 @@
           "titulo": "Higiene y Limpieza",
           "descripcion": "Mantén a tu mascota limpia y saludable",
           "contenido": "Contenido del tercer anuncio sobre cuidado de mascotas y servicios veterinarios."
+        },
+        {
+          "id": "Anuncio9",
+          "titulo": "Higiene y Limpieffza",
+          "descripcion": "Mantén a tu mascota limpia y saludable",
+          "contenido": "Contenido del tercer anuncio sobre cuidado de mascotas y servicios veterinarios."
         }
       ]
     },
