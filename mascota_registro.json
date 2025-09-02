@@ -1,0 +1,47 @@
+{
+  "razasPerro": [
+    "Selecciona una raza",
+    "Mestizo",
+    "Chihuahua",
+    "Poodle",
+    "Labrador Retriever",
+    "Golden Retriever",
+    "Pug",
+    "Pomeranian",
+    "Otro/Desconocido"
+  ],
+  "razasGato": [
+    "Selecciona una raza",
+    "Siamés",
+    "Persa",
+    "American Shorthair",
+    "Gato Bombay",
+    "Azul Ruso",
+    "Esfinge",
+    "Mestizo",
+    "Otro/Desconocido"
+  ],
+  "razasConejo": [
+    "Selecciona una raza",
+    "Cabeza de León",
+    "Conejo Enano o Toy",
+    "Mini Lop",
+    "Conejo Rex",
+    "Mestizo",
+    "Otro/Desconocido"
+  ],
+  "razasAve": [
+    "Selecciona una raza",
+    "Gallina/Gallo",
+    "Pato",
+    "Ganso",
+    "Paloma",
+    "Canario",
+    "Perico",
+    "Perico Australiano",
+    "Cacatúa",
+    "Guacamayo",
+    "Ninfa",
+    "Otro/Desconocido"
+  ]
+}
