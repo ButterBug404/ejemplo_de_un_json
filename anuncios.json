@@ -1,6 +1,25 @@
 {
   "secciones": [
     {
+      "titulo": "principal",
+      "anuncios": [
+        {
+          "id": "AnuncioPrincipal1",
+          "titulo": "Bienvenido a Nuestra Comunidad de Mascotas",
+          "imagen_link": "https://placehold.co/600x400",
+          "descripcion": "El lugar ideal para todos los amantes de los animales.",
+          "contenido": "Explora nuestra guía completa sobre el cuidado de mascotas, servicios veterinarios, adopción responsable, entrenamiento y nutrición. Aquí encontrarás todo lo que necesitas para tu compañero fiel."
+        },
+        {
+          "id": "AnuncioPrincipal2",
+          "titulo": "Últimas Noticias y Eventos",
+          "imagen_link": "https://placehold.co/600x400",
+          "descripcion": "Mantente al tanto de todo lo relacionado con el mundo animal.",
+          "contenido": "Descubre los eventos de adopción más recientes, talleres de entrenamiento y noticias de salud animal. ¡No te pierdas nada!"
+        }
+      ]
+    },
+    {
       "titulo": "Sección 1 - Cuidados Básicos",
       "anuncios": [
         {
