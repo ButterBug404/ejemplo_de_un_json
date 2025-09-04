@@ -6,24 +6,28 @@
         {
           "id": "Anuncio1",
           "titulo": "Cuidado Básico de Mascotas",
+          "imagen_link": "https://placehold.co/600x400",
           "descripcion": "Guía completa para el cuidado diario",
           "contenido": "Contenido del primer anuncio sobre cuidado de mascotas y servicios veterinarios con JSON. ejemplo ejemplo"
         },
         {
           "id": "Anuncio2",
           "titulo": "Servicios Veterinarios",
+          "imagen_link": "https://placehold.co/600x400",
           "descripcion": "Encuentra el mejor veterinario cerca",
           "contenido": "Contenido del segundo anuncio sobre cuidado de mascotas y servicios veterinarios."
         },
         {
           "id": "Anuncio3",
           "titulo": "Higiene y Limpieza",
+          "imagen_link": "https://placehold.co/600x400",
           "descripcion": "Mantén a tu mascota limpia y saludable",
           "contenido": "Contenido del tercer anuncio sobre cuidado de mascotas y servicios veterinarios."
         },
         {
           "id": "Anuncio9",
           "titulo": "Higiene y Limpieffza",
+          "imagen_link": "https://placehold.co/600x400",
           "descripcion": "Mantén a tu mascota limpia y saludable",
           "contenido": "Contenido del tercer anuncio sobre cuidado de mascotas y servicios veterinarios."
         }
@@ -35,18 +39,21 @@
         {
           "id": "Anuncio4",
           "titulo": "Adopción Responsable",
+          "imagen_link": "https://placehold.co/600x400",
           "descripcion": "Todo lo que necesitas saber antes de adoptar",
           "contenido": "Contenido del cuarto anuncio sobre cuidado de mascotas y servicios veterinarios."
         },
         {
           "id": "Anuncio5",
           "titulo": "Nutrición Animal",
+          "imagen_link": "https://placehold.co/600x400",
           "descripcion": "Alimentación balanceada para tu mascota",
           "contenido": "La alimentación balanceada es fundamental para la salud de tu mascota. Aquí encontrarás información sobre los nutrientes esenciales, tipos de alimento según la edad y raza, y consejos para establecer horarios de comida saludables."
         },
         {
           "id": "Anuncio6",
           "titulo": "Entrenamiento Canino",
+          "imagen_link": "https://placehold.co/600x400",
           "descripcion": "Técnicas básicas de adiestramiento",
           "contenido": "Aprende técnicas básicas de adiestramiento para tu perro. Desde comandos básicos como \"siéntate\" y \"quieto\", hasta técnicas avanzadas de socialización y corrección de comportamientos problemáticos."
         }
@@ -58,12 +65,14 @@
         {
           "id": "Anuncio7",
           "titulo": "Primeros Auxilios",
+          "imagen_link": "https://placehold.co/600x400",
           "descripcion": "Qué hacer en emergencias veterinarias",
           "contenido": "Conoce los procedimientos básicos de primeros auxilios para mascotas. Aprende qué hacer en caso de heridas, intoxicaciones, golpes de calor y otras emergencias veterinarias hasta llegar al veterinario."
         },
         {
           "id": "Anuncio8",
           "titulo": "Vacunación",
+          "imagen_link": "https://placehold.co/600x400",
           "descripcion": "Calendario de vacunas para mascotas",
           "contenido": "Mantén al día el calendario de vacunas de tu mascota. Información completa sobre vacunas obligatorias y opcionales, frecuencia de aplicación y la importancia de la prevención de enfermedades."
         }
