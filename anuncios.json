@@ -5,17 +5,17 @@
       "anuncios": [
         {
           "id": "AnuncioPrincipal1",
-          "titulo": "Bienvenido a Nuestra Comunidad de Mascotas",
+          "titulo": "Bienvenido a Nuestra Comunidad",
           "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "El lugar ideal para todos los amantes de los animales.",
+          "descripcion": "El lugar ideal para proteger a tu mascota .",
           "contenido": "Explora nuestra guía completa sobre el cuidado de mascotas, servicios veterinarios, adopción responsable, entrenamiento y nutrición. Aquí encontrarás todo lo que necesitas para tu compañero fiel."
         },
         {
           "id": "AnuncioPrincipal2",
-          "titulo": "Últimas Noticias y Eventos",
+          "titulo": "Alerta: ciudades con mas robos en este mes",
           "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "Mantente al tanto de todo lo relacionado con el mundo animal.",
-          "contenido": "Descubre los eventos de adopción más recientes, talleres de entrenamiento y noticias de salud animal. ¡No te pierdas nada!"
+          "descripcion": "estas son las ciudades donde ha ocurrido mas robos este ultimo mes",
+          "contenido": "los municipios con un mayor indice de robos en este mes en Jalisco son: Tlajomulco, Guadalajara y Tonala "
         }
       ]
     },
@@ -23,7 +23,7 @@
       "titulo": "Sección 1 - Cuidados Básicos",
       "anuncios": [
         {
-          "id": "Anuncio1",
+          "id": "Como cuidar a tu mascota",
           "titulo": "Cuidado Básico de Mascotas",
           "imagen_link": "https://placehold.co/600x400",
           "descripcion": "Guía completa para el cuidado diario",
