@@ -1,0 +1,58 @@
+[
+  {
+    "especie": "perro",
+    "razas": [
+      "Selecciona una raza",
+      "Mestizo",
+      "Chihuahua",
+      "Poodle",
+      "Labrador Retriever",
+      "Golden Retriever",
+      "Pug",
+      "Pomeranian",
+      "Otro/Desconocido"
+    ]
+  },
+  {
+    "especie": "gato",
+    "razas": [
+      "Selecciona una raza",
+      "Siamés",
+      "Persa",
+      "American Shorthair",
+      "Gato Bombay",
+      "Azul Ruso",
+      "Esfinge",
+      "Mestizo",
+      "Otro/Desconocido"
+    ]
+  },
+  {
+    "especie": "conejo",
+    "razas": [
+      "Selecciona una raza",
+      "Cabeza de León",
+      "Conejo Enano o Toy",
+      "Mini Lop",
+      "Conejo Rex",
+      "Mestizo",
+      "Otro/Desconocido"
+    ]
+  },
+  {
+    "especie": "ave",
+    "razas": [
+      "Selecciona una raza",
+      "Gallina/Gallo",
+      "Pato",
+      "Ganso",
+      "Canario",
+      "Perico",
+      "Perico Australiano",
+      "Cacatúa",
+      "Guacamayo",
+      "Ninfa",
+      "Otro/Desconocido"
+    ]
+  }
+]
