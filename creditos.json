@@ -2,8 +2,8 @@
   "creditos": [
     {
       "tipo": "Desarrollador",
-      "nombre": "Empresa XYZ",
-      "descripcion": "Desarrollo de la aplicación",
+      "nombre": "ButterBug404",
+      "descripcion": "Diseño y desarrollo de la aplicación",
       "link": "https://github.com/ButterBug404"
     },
     {
@@ -17,12 +17,6 @@
       "nombre": "aurorarosales01",
       "descripcion": "Apoyo técnico y recursos",
       "link": "https://github.com/aurorarosales01"
-    },
-    {
-      "tipo": "Empresa",
-      "nombre": "Veteridocs",
-      "descripcion": "Apoyo técnico y recursos",
-      "link": null
     }
   ]
 }
