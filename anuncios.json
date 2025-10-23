@@ -17,6 +17,13 @@
           "descripcion": "Consejos para prevenir el robo de tu mascota y zonas de alerta en Jalisco.",
           "contenido": "El robo de mascotas es una triste realidad. Hablaremos de las zonas con más reportes en Jalisco, como Tlajomulco y Guadalajara, y te daremos consejos prácticos para mantener seguros a tu perro o gato. Próximamente: integración con collares GPS para una localización en tiempo real."
         }
+        {
+          "id": "dispositivo-iot",
+          "titulo": "Buenas noticias",
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "Consejos para prevenir el robo de tu mascota y zonas de alerta en Jalisco.",
+          "contenido": "El robo de mascotas es una triste realidad. Hablaremos de las zonas con más reportes en Jalisco, como Tlajomulco y Guadalajara, y te daremos consejos prácticos para mantener seguros a tu perro o gato. Próximamente: integración con collares GPS para una localización en tiempo real."
+        }
       ]
     },
     {
