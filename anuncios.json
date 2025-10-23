@@ -1,101 +1,95 @@
 {
   "secciones": [
     {
-      "titulo": "principal",
+      "titulo": "Principal",
       "anuncios": [
         {
-          "id": "AnuncioPrincipal1",
+          "id": "bienvenida",
           "titulo": "Bienvenido a Nuestra Comunidad",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "El lugar ideal para proteger a tu mascota .",
-          "contenido": "Explora nuestra guía completa sobre el cuidado de mascotas, servicios veterinarios, adopción responsable, entrenamiento y nutrición. Aquí encontrarás todo lo que necesitas para tu compañero fiel."
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "Tu guía central para el cuidado de perros, gatos, conejos y aves.",
+          "contenido": "Bienvenido a tu espacio de confianza para el cuidado de tus mascotas. Aquí encontrarás guías, consejos y recursos especializados en perros, gatos, conejos y aves domésticas. Desde su alimentación hasta su bienestar, te acompañamos en cada etapa de su vida."
         },
         {
-          "id": "AnuncioPrincipal2",
-          "titulo": "Alerta: ciudades con mas robos en este mes",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "estas son las ciudades donde ha ocurrido mas robos este ultimo mes",
-          "contenido": "los municipios con un mayor indice de robos en este mes en Jalisco son: Tlajomulco, Guadalajara y Tonala "
+          "id": "alerta-robo-mascotas",
+          "titulo": "Alerta: Prevención de Robo de Mascotas",
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "Consejos para prevenir el robo de tu mascota y zonas de alerta en Jalisco.",
+          "contenido": "El robo de mascotas es una triste realidad. Hablaremos de las zonas con más reportes en Jalisco, como Tlajomulco y Guadalajara, y te daremos consejos prácticos para mantener seguros a tu perro o gato. Próximamente: integración con collares GPS para una localización en tiempo real."
         }
       ]
     },
     {
-      "titulo": "Sección 1 - Cuidados Básicos",
+      "titulo": "Cuidados Básicos",
       "anuncios": [
         {
-          "id": "Como cuidar a tu mascota",
-          "titulo": "Cuidado Básico de Mascotas",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "Guía completa para el cuidado diario",
-          "contenido": "Contenido del primer anuncio sobre cuidado de mascotas y servicios veterinarios con JSON. ejemplo ejemplo"
+          "id": "alimentacion-esencial",
+          "titulo": "Alimentación Esencial",
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "Guía de alimentación específica para perros, gatos, conejos y aves.",
+          "contenido": "La nutrición es la base de la salud. Aprende las diferencias clave entre el alimento para perros (croquetas, dieta BARF), gatos (alto en proteína), conejos (heno ilimitado) y aves (mezclas de semillas y frutas). Descubre qué alimentos son tóxicos para cada uno."
         },
         {
-          "id": "Anuncio2",
+          "id": "servicios-veterinarios",
           "titulo": "Servicios Veterinarios",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "Encuentra el mejor veterinario cerca",
-          "contenido": "Contenido del segundo anuncio sobre cuidado de mascotas y servicios veterinarios."
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "La importancia de las visitas al veterinario, vacunas y chequeos.",
+          "contenido": "Encuentra veterinarios de confianza. Te explicamos la importancia de las visitas regulares, las vacunas esenciales para perros y gatos, la esterilización y los chequeos especiales que requieren los conejos (dientes) y las aves (pico y plumas)."
         },
         {
-          "id": "Anuncio3",
+          "id": "higiene-hogar",
           "titulo": "Higiene y Limpieza",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "Mantén a tu mascota limpia y saludable",
-          "contenido": "Contenido del tercer anuncio sobre cuidado de mascotas y servicios veterinarios."
-        },
-        {
-          "id": "Anuncio9",
-          "titulo": "Higiene y Limpieffza",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "Mantén a tu mascota limpia y saludable",
-          "contenido": "Contenido del tercer anuncio sobre cuidado de mascotas y servicios veterinarios."
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "Consejos para el baño, cepillado y limpieza de jaulas y hábitats.",
+          "contenido": "Un ambiente limpio es un animal sano. Consejos para el baño de perros, el cepillado de gatos para evitar bolas de pelo, la limpieza de jaulas para conejos (control de amoniaco) y el mantenimiento del hábitat de las aves."
         }
       ]
     },
     {
-      "titulo": "Sección 2 - Adopción y Entrenamiento",
+      "titulo": "Adopción y Comportamiento",
       "anuncios": [
         {
-          "id": "Anuncio4",
+          "id": "adopcion-responsable",
           "titulo": "Adopción Responsable",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "Todo lo que necesitas saber antes de adoptar",
-          "contenido": "Contenido del cuarto anuncio sobre cuidado de mascotas y servicios veterinarios."
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "Todo lo que necesitas saber antes de adoptar una mascota.",
+          "contenido": "¿Piensas adoptar? Te guiamos en el proceso. Consideraciones antes de adoptar un perro, gato, conejo o ave. Dónde adoptar, qué preguntar en el refugio y cómo preparar tu hogar para el nuevo miembro de la familia."
         },
         {
-          "id": "Anuncio5",
-          "titulo": "Nutrición Animal",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "Alimentación balanceada para tu mascota",
-          "contenido": "La alimentación balanceada es fundamental para la salud de tu mascota. Aquí encontrarás información sobre los nutrientes esenciales, tipos de alimento según la edad y raza, y consejos para establecer horarios de comida saludables."
+          "id": "enriquecimiento-ambiental",
+          "titulo": "Juego y Enriquecimiento Ambiental",
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "Ideas de juguetes y actividades para mantener activa a tu mascota.",
+          "contenido": "Una mascota aburrida es una mascota infeliz. Aprende sobre la importancia del juego diario para perros, los rascadores y juguetes para gatos, los túneles y mordederas para conejos, y los columpios y espejos para aves."
         },
         {
-          "id": "Anuncio6",
-          "titulo": "Entrenamiento Canino",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "Técnicas básicas de adiestramiento",
-          "contenido": "Aprende técnicas básicas de adiestramiento para tu perro. Desde comandos básicos como \"siéntate\" y \"quieto\", hasta técnicas avanzadas de socialización y corrección de comportamientos problemáticos."
+          "id": "entrenamiento-basico",
+          "titulo": "Entrenamiento y Socialización",
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "Entrenamiento básico en positivo para perros, gatos, conejos y aves.",
+          "contenido": "El entrenamiento fortalece tu vínculo. Cubrimos el entrenamiento básico en positivo para perros, cómo enseñar a un gato a usar el arenero, cómo acostumbrar a un conejo al manejo y la socialización temprana de las aves."
         }
       ]
     },
     {
-      "titulo": "Sección 3 - Salud y Emergencias",
+      "titulo": "Salud y Emergencias",
       "anuncios": [
         {
-          "id": "Anuncio7",
+          "id": "primeros-auxilios",
           "titulo": "Primeros Auxilios",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "Qué hacer en emergencias veterinarias",
-          "contenido": "Conoce los procedimientos básicos de primeros auxilios para mascotas. Aprende qué hacer en caso de heridas, intoxicaciones, golpes de calor y otras emergencias veterinarias hasta llegar al veterinario."
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "Qué hacer en emergencias veterinarias antes de ver al profesional.",
+          "contenido": "Saber cómo actuar puede salvar una vida. Aprende a identificar signos de emergencia en perros, gatos, conejos y aves. Qué hacer en caso de heridas, asfixia, o intoxicación mientras contactas a tu veterinario."
         },
         {
-          "id": "Anuncio8",
-          "titulo": "Vacunación",
-          "imagen_link": "https://placehold.co/600x400",
-          "descripcion": "Calendario de vacunas para mascotas",
-          "contenido": "Mantén al día el calendario de vacunas de tu mascota. Información completa sobre vacunas obligatorias y opcionales, frecuencia de aplicación y la importancia de la prevención de enfermedades."
+          "id": "vacunacion-prevencion",
+          "titulo": "Prevención y Vacunación",
+          "imagen_link": "https://placehold.co/400x600",
+          "descripcion": "Calendarios de vacunación para perros y gatos, y desparasitación.",
+          "contenido": "Prevenir es curar. Detallamos los calendarios de vacunación esenciales para perros (parvovirus, rabia) y gatos (triple felina, rabia). También cubrimos la importancia de la desparasitación en todas las mascotas, incluyendo conejos y aves."
         }
       ]
     }
   ]
 }
+
