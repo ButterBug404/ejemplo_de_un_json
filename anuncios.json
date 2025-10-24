@@ -13,14 +13,14 @@
         {
           "id": "alerta-robo-mascotas",
           "titulo": "Alerta: Prevención de Robo de Mascotas",
-          "imagen_link": "https://placehold.co/600x400.png",
+          "imagen_link": "https://f2.toyhou.se/file/f2-toyhou-se/images/107251159_QNvGZfY42nQ4jiL.png",
           "descripcion": "Consejos para prevenir el robo de tu mascota y zonas de alerta en Jalisco.",
           "contenido": "El robo de mascotas es una triste realidad. Hablaremos de las zonas con más reportes en Jalisco, como Tlajomulco y Guadalajara, y te daremos consejos prácticos para mantener seguros a tu perro o gato. Próximamente: integración con collares GPS para una localización en tiempo real."
         },
         {
           "id": "dispositivo-iot",
           "titulo": "Buenas noticias",
-          "imagen_link": "https://placehold.co/600x400.png",
+          "imagen_link": "https://imgs.search.brave.com/KgsnDUaVxTll0pIyevYNnz4ljHAgXGoHdFXbEIyYQUI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9RX05QXzJY/XzY4MDcwMC1NTEM3/NjcxOTQyOTM3N18w/NTIwMjQtVi1jb2xs/YXItZ3BzLXBhcmEt/bWFzY290YXMtcG9y/dGF0aWwtbG9jYWxp/emFkb3ItcGVycnVu/by1ncC53ZWJw",
           "descripcion": "Consejos para prevenir el robo de tu mascota y zonas de alerta en Jalisco.",
           "contenido": "El robo de mascotas es una triste realidad. Hablaremos de las zonas con más reportes en Jalisco, como Tlajomulco y Guadalajara, y te daremos consejos prácticos para mantener seguros a tu perro o gato. Próximamente: integración con collares GPS para una localización en tiempo real."
         }
@@ -32,21 +32,21 @@
         {
           "id": "alimentacion-esencial",
           "titulo": "Alimentación Esencial",
-          "imagen_link": "https://placehold.co/400x600",
+          "imagen_link": "https://imgs.search.brave.com/qkQ28FJP9LOnvqmS4oj8H-WEuVPF-gEkWpae5GO_rs8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtcHJlbWl1/bS9jb25jZXB0by1h/bGltZW50b3Mtb3Jn/YW5pY29zLW1hc2Nv/dGFzLWJsYW5jb18x/ODUxOTMtNDc0ODgu/anBnP3NlbXQ9YWlz/X2h5YnJpZA",
           "descripcion": "Guía de alimentación específica para perros, gatos, conejos y aves.",
           "contenido": "La nutrición es la base de la salud. Aprende las diferencias clave entre el alimento para perros (croquetas, dieta BARF), gatos (alto en proteína), conejos (heno ilimitado) y aves (mezclas de semillas y frutas). Descubre qué alimentos son tóxicos para cada uno."
         },
         {
           "id": "servicios-veterinarios",
           "titulo": "Servicios Veterinarios",
-          "imagen_link": "https://placehold.co/400x600",
+          "imagen_link": "https://imgs.search.brave.com/r_MDhHDnYsvsxHEWolvyhQARVWZ6Xulrm9fBu2YhJSo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bXNkLWFuaW1hbC1o/ZWFsdGguZXMvd3At/Y29udGVudC91cGxv/YWRzL3NpdGVzLzIw/LzIwMjEvMDIvbm90/aWNpYV92YWN1bmFj/aW9uMS5qcGc",
           "descripcion": "La importancia de las visitas al veterinario, vacunas y chequeos.",
           "contenido": "Encuentra veterinarios de confianza. Te explicamos la importancia de las visitas regulares, las vacunas esenciales para perros y gatos, la esterilización y los chequeos especiales que requieren los conejos (dientes) y las aves (pico y plumas)."
         },
         {
           "id": "higiene-hogar",
           "titulo": "Higiene y Limpieza",
-          "imagen_link": "https://placehold.co/400x600",
+          "imagen_link": "https://imgs.search.brave.com/DyDYm3bHkTLTFnJiZE8pH5PaVCHjC5datpCFEaJo55E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9udWJp/a2EuZXMvX2lweC9m/X3dlYnAmcV84MCZz/Xzc1NHgzNzgvaHR0/cHM6Ly9jZG4ubnVi/aWthLmVzL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzAzLzE0/MDgyMDAyL2hpZ2ll/bmUtYW5pbWFsZXMu/anBn",
           "descripcion": "Consejos para el baño, cepillado y limpieza de jaulas y hábitats.",
           "contenido": "Un ambiente limpio es un animal sano. Consejos para el baño de perros, el cepillado de gatos para evitar bolas de pelo, la limpieza de jaulas para conejos (control de amoniaco) y el mantenimiento del hábitat de las aves."
         }
@@ -58,21 +58,21 @@
         {
           "id": "adopcion-responsable",
           "titulo": "Adopción Responsable",
-          "imagen_link": "https://placehold.co/400x600",
+          "imagen_link": "https://www.apasdem.org.mx/wp-content/uploads/2018/01/adoptame-perro-690x429.jpg",
           "descripcion": "Todo lo que necesitas saber antes de adoptar una mascota.",
           "contenido": "¿Piensas adoptar? Te guiamos en el proceso. Consideraciones antes de adoptar un perro, gato, conejo o ave. Dónde adoptar, qué preguntar en el refugio y cómo preparar tu hogar para el nuevo miembro de la familia."
         },
         {
           "id": "enriquecimiento-ambiental",
           "titulo": "Juego y Enriquecimiento Ambiental",
-          "imagen_link": "https://placehold.co/400x600",
+          "imagen_link": "https://imgs.search.brave.com/Pm-x81Xu9q3pD-6ElqAgJlW0dgy1cvSeCQie2sLPyr8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM1/NjYyODI3Ny9lcy9m/b3RvL2ZsYXRsZXkt/b2YtZG9nLWFjY2Vz/c29yaWVzLW9uLWEt/d2hpdGUtYmFja2dy/b3VuZC5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9WmlPZWFu/elJocE5CanJXRHhw/eV9lQ1NhME5hTjdM/OW5PeVM1SEtDdVNf/UT0",
           "descripcion": "Ideas de juguetes y actividades para mantener activa a tu mascota.",
           "contenido": "Una mascota aburrida es una mascota infeliz. Aprende sobre la importancia del juego diario para perros, los rascadores y juguetes para gatos, los túneles y mordederas para conejos, y los columpios y espejos para aves."
         },
         {
           "id": "entrenamiento-basico",
           "titulo": "Entrenamiento y Socialización",
-          "imagen_link": "https://placehold.co/400x600",
+          "imagen_link": "https://nupec.com/wp-content/uploads/2021/08/Captura-de-Pantalla-2021-08-02-a-las-15.11.57.png",
           "descripcion": "Entrenamiento básico en positivo para perros, gatos, conejos y aves.",
           "contenido": "El entrenamiento fortalece tu vínculo. Cubrimos el entrenamiento básico en positivo para perros, cómo enseñar a un gato a usar el arenero, cómo acostumbrar a un conejo al manejo y la socialización temprana de las aves."
         }
@@ -84,14 +84,14 @@
         {
           "id": "primeros-auxilios",
           "titulo": "Primeros Auxilios",
-          "imagen_link": "https://placehold.co/400x600",
+          "imagen_link": "https://unamglobal.unam.mx/wp-content/uploads/2024/09/primeros-auxilios-perros-y-gatos002-1024x605.jpg",
           "descripcion": "Qué hacer en emergencias veterinarias antes de ver al profesional.",
           "contenido": "Saber cómo actuar puede salvar una vida. Aprende a identificar signos de emergencia en perros, gatos, conejos y aves. Qué hacer en caso de heridas, asfixia, o intoxicación mientras contactas a tu veterinario."
         },
         {
           "id": "vacunacion-prevencion",
           "titulo": "Prevención y Vacunación",
-          "imagen_link": "https://placehold.co/400x600",
+          "imagen_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRaEl5DK78ZPfJPzX8pLaUEmxeZWBZB1khQg&s",
           "descripcion": "Calendarios de vacunación para perros y gatos, y desparasitación.",
           "contenido": "Prevenir es curar. Detallamos los calendarios de vacunación esenciales para perros (parvovirus, rabia) y gatos (triple felina, rabia). También cubrimos la importancia de la desparasitación en todas las mascotas, incluyendo conejos y aves."
         }
