@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "usuarioId": 1,
+    "nombre": "Laika",
+    "edad": "15 años",
+    "raza": "Poodle",
+    "estado": "Desaparecido",
+    "tipoRegistro": "normal",
+    "imagencara": "https://f2.toyhou.se/file/f2-toyhou-se/images/106141835_XolQtUvSjNMtqYw.png",
+    "imagen": [
+      "https://f2.toyhou.se/file/f2-toyhou-se/images/106165585_HHpNKxAWFEirnQL.png",
+      "https://f2.toyhou.se/file/f2-toyhou-se/images/106165577_kdJ94HNbowtEydO.png",
+      "https://f2.toyhou.se/file/f2-toyhou-se/images/106165593_PShUzjVx7B3rAmt.png"
+    ],
+    "especie": "perro",
+    "color": "Blanco",
+    "tamaño": "Grande",
+    "genero": "Hembra",
+    "descripcion": "odia jugar con niños y no es cariñosa, le gusta ver telenovelas y comer snacks de pollo deshidratado",
+    "contacto": "Whatsapp",
+    "vacunado": true,
+    "fechaRegistro": "2024-10-25T10:30:00.000Z",
+    "ubicacion": {
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "estado_republica": "Jalisco",
+      "ciudad": "Guadalajara",
+      "direccion": "Av. Chapultepec 123, Guadalajara"
+    },
+    "ultimaVezVisto": "15/7/2023",
+    "ubicacionPerdida": "Parque Colomos, Guadalajara",
+    "descripcionDesaparicion": "Se perdió durante un paseo en el parque, se soltó de la correa al perseguir una ardilla.",
+    "recompensa": "$1000 MXN",
+    "razonPerdida": "extravio"
+  },
+  {
+    "id": 2,
+    "usuarioId": 2,
+    "nombre": "Boby",
+    "edad": "4 años",
+    "raza": "Poodle",
+    "estado": "Presente",
+    "tipoRegistro": "normal",
+    "imagencara": "https://f2.toyhou.se/file/f2-toyhou-se/images/106324356_PJzDPABm7XCvlGK.png",
+    "imagen": [],
+    "especie": "perro",
+    "color": "Blanco",
+    "tamaño": "Mediano",
+    "genero": "Macho",
+    "descripcion": "Encontrada deambulando cerca del parque, muy amigable y cariñosa. Tiene un collar rosado.",
+    "vacunado": false,
+    "fechaRegistro": "2024-10-25T10:30:00.000Z",
+    "ubicacion": {
+      "latitude": 19.434,
+      "longitude": -99.135,
+      "estado_republica": "Jalisco",
+      "ciudad": "Guadalajara",
+      "direccion": "Parque Colomos, Zona Norte, Guadalajara"
+    }
+  },
+  {
+    "id": 3,
+    "usuarioId": 2,
+    "nombre": "Michi",
+    "edad": "2 años",
+    "raza": "Siamés",
+    "estado": "Presente",
+    "tipoRegistro": "presente",
+    "imagencara": "https://placekitten.com/200/200",
+    "imagen": [
+      "https://placekitten.com/201/200",
+      "https://placekitten.com/202/200"
+    ],
+    "especie": "gato",
+    "color": "Gris",
+    "tamaño": "Pequeño",
+    "genero": "Hembra",
+    "descripcion": "Gata muy tranquila y dormilona.",
+    "vacunado": true,
+    "fechaRegistro": "2024-10-25T10:30:00.000Z",
+    "ubicacion": {
+      "latitude": 19.435,
+      "longitude": -99.136,
+      "estado_republica": "Jalisco",
+      "ciudad": "Guadalajara",
+      "direccion": "Calle Gatos 123, Guadalajara"
+    }
+  },
+  {
+    "id": 4,
+    "usuarioId": 2,
+    "nombre": "Firulais",
+    "edad": "5 años",
+    "raza": "Labrador Retriever",
+    "estado": "Desaparecido",
+    "tipoRegistro": "perdida",
+    "imagencara": "https://placedog.net/200/200?id=1",
+    "imagen": [
+      "https://placedog.net/201/200?id=2"
+    ],
+    "especie": "perro",
+    "color": "Negro",
+    "tamaño": "Grande",
+    "genero": "Macho",
+    "descripcion": "Perro juguetón, responde a su nombre.",
+    "vacunado": true,
+    "fechaRegistro": "2024-10-25T10:30:00.000Z",
+    "ubicacion": {
+      "latitude": 19.436,
+      "longitude": -99.137,
+      "estado_republica": "Jalisco",
+      "ciudad": "Guadalajara",
+      "direccion": "Parque Metropolitano, Guadalajara"
+    },
+    "ultimaVezVisto": "10/6/2024",
+    "ubicacionPerdida": "Parque Metropolitano, Guadalajara",
+    "descripcionDesaparicion": "Se escapó durante un paseo.",
+    "contacto": "Whatsapp: 5551234567",
+    "recompensa": "$800 MXN",
+    "razonPerdida": "extravio"
+  },
+  {
+    "id": 5,
+    "usuarioId": 2,
+    "nombre": "Mascota encontrada ave",
+    "edad": "Desconocido",
+    "raza": "Desconocido",
+    "estado": "Presente",
+    "tipoRegistro": "encontrada",
+    "imagencara": "https://loremflickr.com/200/200/bird",
+    "imagen": [
+      "https://loremflickr.com/201/200/bird"
+    ],
+    "especie": "ave",
+    "color": "Dorado",
+    "tamaño": "Pequeño",
+    "genero": "Desconocido",
+    "descripcion": "Ave encontrada cerca del mercado.",
+    "vacunado": false,
+    "fechaRegistro": "2024-10-25T10:30:00.000Z",
+    "ubicacion": {
+      "latitude": 19.437,
+      "longitude": -99.138,
+      "estado_republica": "Jalisco",
+      "ciudad": "Guadalajara",
+      "direccion": "Mercado San Juan de Dios, Guadalajara"
+    },
+    "ubicacionEncontrada": "Mercado San Juan de Dios, Guadalajara",
+    "fechaEncontrada": "2024-10-25T10:30:00.000Z"
+  },
+  {
+    "id": 6,
+    "usuarioId": 2,
+    "nombre": "Bunny",
+    "edad": "1 año",
+    "raza": "Cabeza de León",
+    "estado": "Presente",
+    "tipoRegistro": "adopcion",
+    "imagencara": "https://loremflickr.com/200/200/rabbit",
+    "imagen": [
+      "https://loremflickr.com/201/200/rabbit"
+    ],
+    "especie": "conejo",
+    "color": "Blanco",
+    "tamaño": "Pequeño",
+    "genero": "Hembra",
+    "descripcion": "Coneja lista para adopción, muy sociable.",
+    "vacunado": false,
+    "fechaRegistro": "2024-10-25T10:30:00.000Z",
+    "ubicacion": {
+      "latitude": 19.438,
+      "longitude": -99.139,
+      "estado_republica": "Jalisco",
+      "ciudad": "Guadalajara",
+      "direccion": "Plaza del Sol, Guadalajara"
+    },
+    "disponibleAdopcion": true,
+    "requisitosAdopcion": "Contactar para más información"
+  }
+]
